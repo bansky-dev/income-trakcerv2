@@ -1,0 +1,15 @@
+C:\_repos\income-trakcerv2\income-trackerv2\bin\Debug\net8.0\income-trackerv2.exe
+C:\_repos\income-trakcerv2\income-trackerv2\bin\Debug\net8.0\income-trackerv2.deps.json
+C:\_repos\income-trakcerv2\income-trackerv2\bin\Debug\net8.0\income-trackerv2.runtimeconfig.json
+C:\_repos\income-trakcerv2\income-trackerv2\bin\Debug\net8.0\income-trackerv2.dll
+C:\_repos\income-trakcerv2\income-trackerv2\bin\Debug\net8.0\income-trackerv2.pdb
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.AssemblyInfoInputs.cache
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.AssemblyInfo.cs
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.csproj.CoreCompileInputs.cache
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.sourcelink.json
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.dll
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\refint\income-trackerv2.dll
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.pdb
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\income-trackerv2.genruntimeconfig.cache
+C:\_repos\income-trakcerv2\income-trackerv2\obj\Debug\net8.0\ref\income-trackerv2.dll
